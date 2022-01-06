@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="PYTHON_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$" isTestSource="false" />
+      <excludeFolder url="file://$MODULE_DIR$/utils/300W-LP" />
+      <excludeFolder url="file://$MODULE_DIR$/utils/300WLP_TEST" />
+      <excludeFolder url="file://$MODULE_DIR$/utils/AFLW_2000" />
+      <excludeFolder url="file://$MODULE_DIR$/utils/AFW" />
+      <excludeFolder url="file://$MODULE_DIR$/utils/BFM" />
+      <excludeFolder url="file://$MODULE_DIR$/utils/HELEN" />
+      <excludeFolder url="file://$MODULE_DIR$/utils/LFPW" />
+    </content>
+    <orderEntry type="jdk" jdkName="Python 3.7 (base)" jdkType="Python SDK" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
